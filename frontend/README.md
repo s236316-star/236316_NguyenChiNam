@@ -194,3 +194,24 @@ Frontend được triển khai bằng Docker image trên Docker Hub và sử d�
 **Mã sinh viên:** 236316
 
 Dự án được thực hiện phục vụ mục đích học tập.
+## 11. Kiểm thử và nghiệm thu
+
+### Kiểm thử tích hợp
+
+- Kiểm tra giao diện frontend được triển khai trên Render.
+- Kiểm tra frontend lấy danh sách món ăn thông qua backend API.
+- Kiểm tra backend kết nối MongoDB Atlas và trả về dữ liệu.
+- Kiểm tra chức năng tìm kiếm và lọc món ăn.
+- Kiểm tra các chức năng thêm, xem chi tiết, cập nhật và xóa món ăn.
+- Kiểm tra dữ liệu sau khi thao tác được cập nhật phù hợp trên giao diện.
+
+### Thông tin triển khai và nộp bài
+
+- **GitHub:** https://github.com/s236316-star/236316_NguyenChiNam
+- **Docker Hub Frontend:** https://hub.docker.com/r/s236316/236316-nguyenchinam-frontend
+- **Docker Hub Backend:** https://hub.docker.com/r/s236316/236316-nguyenchinam-backend
+- **Render Frontend:** https://web-236316.onrender.com
+- **Render Backend API:** https://two36316-nguyenchinam-backend-1-0.onrender.com
+- **Health Check:** https://two36316-nguyenchinam-backend-1-0.onrender.com/health
+- **Foods API:** https://two36316-nguyenchinam-backend-1-0.onrender.com/api/foods
+
